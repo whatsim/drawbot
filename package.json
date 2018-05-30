@@ -1,0 +1,21 @@
+{
+  "name": "drawbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "image-size": "^0.6.2",
+    "needle": "^2.2.0",
+    "svg-path-interpolator": "^0.2.5",
+    "svg-path-parser": "^1.1.0",
+    "svg-points": "^6.0.1",
+    "svgo": "^1.0.5",
+    "svgson": "^2.1.1"
+  }
+}
